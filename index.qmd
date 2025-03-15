@@ -21,7 +21,7 @@ Download [My Resume](/Bella Gordon Stats 140XP Updated Resume.docx.pdf)
 ### Projects
 
 #### The Impact of Age and Excercise on Blood Melatonin Levels
-[Slide Deck](/Impact of Age and Exercise on Blood Melatonin Levels) <br>
+[Slide Deck](/Impact of Age and Exercise on Blood Melatonin Levels.pdf) <br>
 [Finalized Report](/Gordon Final Project Paper.pdf) <br>
 - Created a Repeated Measures experiment and collected data three times across the span of three hours for over 100 people in "The Islands" program" <br>
 - Conducted ANOVA analysis, checked the validity of the data model, and did exploratory data analysis fo the results <br>
