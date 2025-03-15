@@ -1,9 +1,41 @@
 ---
 title: "Home"
+about:
+  template: broadside
+  image: bella.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/bellagordon26
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/bellagordon/
+    - text: Email
+      url: "mailto:bellagordon26@g.ucla.edu"
 ---
 
-Hi!
+I'm a third year Statistics & Data Science Major and Accounting Minor at UCLA. Please go to my About page, any of the links at the bottom of this page, or my resume for more information about me.
 
-```{r}
-1 + 1
-```
+Download [My Resume](/Bella Gordon Stats 140XP Updated Resume.docx.pdf)
+
+### Projects
+
+#### The Impact of Age and Excercise on Blood Melatonin Levels
+[Slide Deck](/Impact of Age and Exercise on Blood Melatonin Levels) <br>
+[Finalized Report](/Gordon Final Project Paper.pdf) <br>
+- Created a Repeated Measures experiment and collected data three times across the span of three hours for over 100 people in "The Islands" program" <br>
+- Conducted ANOVA analysis, checked the validity of the data model, and did exploratory data analysis fo the results <br>
+- Later updated the experiment to include more data points and found new results to potentially conduct further research off of <br>
+
+#### Stats 101C Regression Project
+[Final Report](/Regression Project.pdf) <br>
+- Worked with four other students to create the best possible predictive regression model for Amazon orders to predict the log total amount of an order<br>
+- Created fifteen different models for my team for submission, including the team's strongest model <br>
+- Collaborated on a final report and wrote about my specific model and the strengths and weaknesses of it <br>
+
+#### Stats 101C Classification Project
+[Final Report](/Classification Project.pdf) <br>
+- Worked with three other students to create the best possible predictive model for 2020 election results for a county given the demographics and attributes of that county<br>
+- Coded and submitted ten predictive models for our team <br>
+- Created five visuals for exploratory data analysis<br>
+---

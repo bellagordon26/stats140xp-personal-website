@@ -4,13 +4,41 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Hi!\n\n1 + 1\n\n[1] 2"
+    "text": "I’m a third year Statistics & Data Science Major and Accounting Minor at UCLA. Please go to my About page, any of the links at the bottom of this page, or my resume for more information about me.\nDownload My Resume\n\nProjects\n\nThe Impact of Age and Excercise on Blood Melatonin Levels\nSlide Deck  Finalized Report  - Created a Repeated Measures experiment and collected data three times across the span of three hours for over 100 people in “The Islands” program”  - Conducted ANOVA analysis, checked the validity of the data model, and did exploratory data analysis fo the results  - Later updated the experiment to include more data points and found new results to potentially conduct further research off of \n\n\nStats 101C Regression Project\nFinal Report  - Worked with four other students to create the best possible predictive regression model for Amazon orders to predict the log total amount of an order - Created fifteen different models for my team for submission, including the team’s strongest model  - Collaborated on a final report and wrote about my specific model and the strengths and weaknesses of it \n\n\nStats 101C Classification Project\nFinal Report  - Worked with three other students to create the best possible predictive model for 2020 election results for a county given the demographics and attributes of that county - Coded and submitted ten predictive models for our team  - Created five visuals for exploratory data analysis"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m currently a third year Statistics & Data Science Major and Accounting Minor at UCLA. For all my projects, I’m passionate about continuously working to find better ways to solve problems and to create the most optimal solution possible. My current focus for a career is in Tax Accounting, which I will be furthering via an internship this upcoming summer.\nOutside of my academics and work, I love baking; playing video games, completing puzzles; taking Pilates and ballet classes; and spending time with my friends, family, and my two cats!\nIf you’d like to contact me, please feel free to do so via the following email: bellagordon26@gmail.com\n\n\n\nMy Cats!"
+    "text": "I’m currently a third year Statistics & Data Science Major and Accounting Minor at UCLA. For all my projects, I’m passionate about continuously working to find better ways to solve problems and to create the most optimal solution possible. My current focus for a career is in Tax Accounting, which I will be furthering via an internship this upcoming summer.\nOutside of my academics and work, I love baking; playing video games, completing puzzles; taking Pilates and ballet classes; and spending time with my friends, family, and my two cats!\nFun Fact: my favorite theorem is the Infinite Monkey Theorem.\n\n\n\nMy Cats!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Home",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Home",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018\nThe contents of this page will be laid out using the jolla template with the profile.jpg image, and generate a set of links for the items specified in links.\nYou can write and format the content of the page however you’d like - when the page is rendered, Quarto will use the content and options provided in the about option to create the about page, arranging the content of the about option with the content in the page itself."
+  },
+  {
+    "objectID": "MyProjects.html",
+    "href": "MyProjects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Impact"
+  },
+  {
+    "objectID": "index.html#the-impact-of-age-and-excercise-on-blood-melatonin-levels",
+    "href": "index.html#the-impact-of-age-and-excercise-on-blood-melatonin-levels",
+    "title": "Home",
+    "section": "The Impact of Age and Excercise on Blood Melatonin Levels",
+    "text": "The Impact of Age and Excercise on Blood Melatonin Levels\nSlide Deck"
   }
 ]

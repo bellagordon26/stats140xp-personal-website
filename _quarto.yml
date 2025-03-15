@@ -11,9 +11,11 @@ website:
 
 format:
   html:
-    theme: spacelab
+    theme: Minty
     css: styles.css
     toc: true
 
 editor: visual
 
+execute:
+  freeze: auto

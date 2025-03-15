@@ -6,6 +6,6 @@ I'm currently a third year Statistics & Data Science Major and Accounting Minor 
 
 Outside of my academics and work, I love baking; playing video games, completing puzzles; taking Pilates and ballet classes; and spending time with my friends, family, and my two cats!
 
-If you'd like to contact me, please feel free to do so via the following email: bellagordon26\@gmail.com
+Fun Fact: my favorite theorem is the Infinite Monkey Theorem.
 
 ![My Cats!](images/cats.jpg){fig-alt="Bella's two gray cats sleeping in a basket filled with pillows and blankets" fig-align="center"}
